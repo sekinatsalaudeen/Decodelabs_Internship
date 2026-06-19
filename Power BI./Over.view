@@ -1,0 +1,39 @@
+## Power BI Dashboard Overview
+
+After completing data cleaning in Excel and business analysis in SQL, 
+Power BI was used to transform the findings into an interactive dashboard for business reporting and decision-making.
+
+### Dashboard Sections
+
+#### 1. Revenue & Sales Performance Analysis
+
+* Analyzed total revenue by product, year, and month.
+* Compared revenue generated from successful and unsuccessful orders.
+* Visualized sales trends to identify revenue decline over time.
+* Highlighted product contributions to overall business revenue.
+
+#### 2. Customer Behavior & Marketing Analysis
+
+* Examined customer payment preferences.
+* Analyzed coupon usage among customers.
+* Identified the most effective referral sources for customer acquisition.
+* Evaluated customer distribution across marketing channels.
+
+#### 3. Product & Order Analysis
+
+* Measured product demand using quantity sold and items added to cart.
+* Analyzed order distribution across different order statuses.
+* Identified product performance patterns and fulfillment outcomes.
+* Investigated products contributing to unsuccessful orders.
+
+### Key Insights
+
+* Revenue showed a declining trend between 2023 and 2025.
+* Only 38.64% of revenue was associated with successful orders, while 61.36% was linked to pending, cancelled, or returned orders.
+* Chair products generated the highest unsuccessful revenue and experienced the sharpest decline in performance.
+* Certain referral channels consistently generated higher customer engagement and should be prioritized for marketing efforts.
+* Customer purchasing behavior revealed clear preferences in payment methods and coupon usage.
+
+### Business Impact
+
+The Power BI dashboard consolidated insights from Excel and SQL into an interactive reporting solution that enables stakeholders to monitor revenue performance, evaluate marketing effectiveness, understand customer behavior, and identify areas of revenue leakage for informed decision-making.
